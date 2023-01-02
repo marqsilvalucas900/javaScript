@@ -1,0 +1,15 @@
+Exercícios fáceis:
+
+Importe e exporte módulos padrão em um arquivo JavaScript.
+Crie um módulo que exporte uma função que retorna uma string e importe esse módulo em outro arquivo.
+Crie um módulo que exporte uma classe e instancie essa classe em outro arquivo.
+Exercícios intermediários:
+
+Crie um módulo que exporte uma função que recebe um número e retorna o seu fatorial. Importe esse módulo em outro arquivo e use a função para calcular o fatorial de vários números diferentes.
+Crie um módulo que exporte uma classe com propriedades e métodos e use essa classe em outro arquivo para criar várias instâncias diferentes.
+Crie um módulo que importe vários módulos diferentes e os combine em um único objeto exportado.
+Exercícios difíceis:
+
+Crie um módulo que importe um módulo externo via URL e use esses dados para criar um gráfico.
+Crie um módulo que importe e exporte módulos dinamicamente de acordo com as entradas do usuário.
+Crie um módulo que importe e exporte módulos de um banco de dados e use esses módulos em outro arquivo.
